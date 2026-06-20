@@ -1,6 +1,7 @@
 # 🎮 Exam Hall Survival Game
-
 A 2D survival game built using Python and Pygame where the player must survive obstacles inside an exam hall. 
+## Screenshot
+![Game Screenshot](image.py.jpeg)
 ## 🚀 Features
 - Player movement using keyboard
 - Random obstacles generation
